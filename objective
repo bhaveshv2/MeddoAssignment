@@ -1,0 +1,4 @@
+create a react application login and dashboard page with login is done using auth0 and dashboard is only shown to loggeding users.
+PS: username and password should only be taken on login page itself
+
+You must write test cases for your application
